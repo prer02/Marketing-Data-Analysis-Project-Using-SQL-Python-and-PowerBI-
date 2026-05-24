@@ -264,7 +264,7 @@ ShopEasy-Marketing-Analytics/
 
 ### ⏱️ &nbsp;If you have 10 minutes
 
-Read the **six-slide executive summary** in [`/presentation/`](presentation/) — it covers the full story from problem to recommendations.
+Read the **six-slide executive summary** in [`/presentation/`]() — it covers the full story from problem to recommendations.
 
 ### ⏱️ &nbsp;If you have 30 minutes
 
