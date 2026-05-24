@@ -249,7 +249,7 @@ ShopEasy-Marketing-Analytics/
 
 ## 9. Sources & References
 
-- **Business case** — ShopEasy internal brief (see [`/docs/business_case.pdf`](docs/business_case.pdf))
+- **Business case** — ShopEasy internal brief [Business Problem PPT  ](marketing_analytics_business_case.pptx)
 - **Data** — ShopEasy operational database export (customers, products, journey, engagement, reviews, geography)
 - **Sentiment model** — Hutto, C.J. & Gilbert, E.E. (2014). *VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text.* Eighth International Conference on Weblogs and Social Media (ICWSM-14).
 - **Tooling docs** — [Microsoft Power BI][(https://learn.microsoft.com/power-bi/)](https://app.powerbi.com/links/FpZYwPzUIM?ctid=3d571b57-bc68-4a84-8dca-37627724762c&pbi_source=linkShare) · [NLTK VADER](https://www.nltk.org/api/nltk.sentiment.vader.html) · [SQL Server T-SQL](https://learn.microsoft.com/sql/t-sql/)
