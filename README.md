@@ -195,7 +195,7 @@ Reviews were loaded with `pandas`, scored with **VADER** from `NLTK`, and bucket
 
 Three report pages — **Conversion**, **Engagement**, **Feedback** — each driven by a dedicated DAX measure set:
 
-![Overview Page](Overview Page.PNG)
+![Overview Page](overview_page.PNG)
 
 - Conversion rate measure uses a **rolling monthly denominator**
 - Rating distribution uses a **calculated dimension** so the histogram updates with filters
