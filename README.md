@@ -39,7 +39,6 @@ The work covers the entire analyst workflow — business framing, data engineeri
 | Field | Detail |
 | :--- | :--- |
 | **Role** | Data Analyst (solo project) |
-| **Duration** | ~3 weeks |
 | **Stack** | SQL Server · Python (pandas, NLTK/VADER) · Power BI · PowerPoint |
 | **Domain** | E-commerce · Marketing Analytics |
 
