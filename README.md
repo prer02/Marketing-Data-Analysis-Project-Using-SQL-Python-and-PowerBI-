@@ -197,6 +197,12 @@ Three report pages — **Conversion**, **Engagement**, **Feedback** — each dri
 
 ![Overview Page](overview_page.PNG)
 
+![Conversion details Page](conversion_details_page.PNG)
+
+![Social Media details Page](social_media_details_page.PNG)
+
+![Customer details Page](Customer_details_page.PNG)
+
 - Conversion rate measure uses a **rolling monthly denominator**
 - Rating distribution uses a **calculated dimension** so the histogram updates with filters
 - Slicers cover **month, product category, and content type**
