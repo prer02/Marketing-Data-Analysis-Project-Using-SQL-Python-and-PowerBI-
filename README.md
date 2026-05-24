@@ -270,20 +270,7 @@ Read the **slide executive summary** in [Business Problem Statement presentation
 
 Open `ShopEasy_Dashboard.pbix` in Power BI Desktop and walk the three report pages. Start on **Conversion**, then **Engagement**, then **Feedback** — that's the same order the analysis was built in.
 
-### ⏱️ &nbsp;If you want to see the underlying work
 
-```bash
-# 1. Rebuild the cleaned tables and views
-sqlcmd -S <server> -d <database> -i sql/01_clean_customers.sql
-sqlcmd -S <server> -d <database> -i sql/02_clean_reviews.sql
-sqlcmd -S <server> -d <database> -i sql/03_clean_engagement.sql
-sqlcmd -S <server> -d <database> -i sql/04_reporting_views.sql
-
-# 2. Run the sentiment notebook
-jupyter notebook python/sentiment_analysis.ipynb
-
-# 3. Refresh the Power BI file against your local database connection
-```
 
 <br>
 
