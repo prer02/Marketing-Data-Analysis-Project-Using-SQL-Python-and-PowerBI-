@@ -195,6 +195,10 @@ Reviews were loaded with `pandas`, scored with **VADER** from `NLTK`, and bucket
 
 Three report pages — **Conversion**, **Engagement**, **Feedback** — each driven by a dedicated DAX measure set:
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+<br>
+
 - Conversion rate measure uses a **rolling monthly denominator**
 - Rating distribution uses a **calculated dimension** so the histogram updates with filters
 - Slicers cover **month, product category, and content type**
