@@ -214,23 +214,13 @@ A six-slide deck designed to be read in five minutes without opening the dashboa
 ```
 ShopEasy-Marketing-Analytics/
 │
-├── 📂 sql/
-│   ├── 01_clean_customers.sql
-│   ├── 02_clean_reviews.sql
-│   ├── 03_clean_engagement.sql
-│   └── 04_reporting_views.sql
+├──SQL Queries
 │
-├── 📂 python/
-│   └── sentiment_analysis.ipynb
+├── Python sentiment_analysis code
 │
-├── 📂 powerbi/
-│   └── ShopEasy_Dashboard.pbix
+├──Marketing_Analytics_Dashboard_Presentation.pptx
 │
-├── 📂 presentation/
-│   └── Marketing_Analytics_Dashboard_Presentation.pptx
-│
-├── 📂 docs/
-│   └── business_case.pdf
+├─  business_case.pptx
 │
 └── 📄 README.md
 ```
