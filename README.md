@@ -264,7 +264,7 @@ ShopEasy-Marketing-Analytics/
 
 ### ⏱️ &nbsp;If you have 10 minutes
 
-Read the **slide executive summary** in [`/Business case presentation/`](marketing_analytics_business_case)  and  [`/presentation/`](marketing_analytics_dashboard_presentation) — it covers the full story from problem to recommendations.
+Read the **slide executive summary** in [Business Problem Statement presentation](marketing_analytics_business_case.pptx)  and  [Solution Overview Presentation](marketing_analytics_dashboard_presentation) — it covers the full story from problem to recommendations.
 
 ### ⏱️ &nbsp;If you have 30 minutes
 
